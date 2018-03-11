@@ -1,6 +1,5 @@
 ##Note:
-## This is a simple example of predictive modeling using logistic regression in R
-## I wrote this for a Kaggle competition on Titanic survivor data
+##logistic regression and random forest
 
 library(tidyverse)
 library(caret)
